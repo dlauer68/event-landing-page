@@ -1,0 +1,25 @@
+.logo {
+    background-color: blueviolet;
+    
+}
+
+.hero-section{
+    background-color: rgb(220, 214, 214);
+}
+
+.d-flex {
+    background-color: blueviolet;
+}
+
+.speaker {
+    background-color:greenyellow;
+    border: 6px;
+    border-color: black;
+    max-width: 100%;
+    height: auto;
+}
+
+.social-icons {
+    background-color: blue;
+
+}
