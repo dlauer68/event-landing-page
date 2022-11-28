@@ -19,7 +19,11 @@
     height: auto;
 }
 
-.social-icons {
+.footer {
+    padding: 25px 0;
     background-color: blue;
+    max-width: 100%;
+    height: 60px;
 
 }
+
